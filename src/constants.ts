@@ -1,4 +1,4 @@
 export enum MenuOption {
-    DESTINATIONS,
-    FAVORITES,
+  DESTINATIONS,
+  FAVORITES,
 }
