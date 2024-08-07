@@ -8,7 +8,7 @@ interface MenuProps {
 
 export default function MainMenu({ activeTab, setActiveTab }: MenuProps) {
   return (
-    <div className="bg-gray-100 py-4 px-6 flex justify-between items-center mb-4">
+    <div className="bg-gray-100 py-4 px-6 flex justify-between items-center">
       <div className="flex justify-between w-full">
         <button
           className={`${

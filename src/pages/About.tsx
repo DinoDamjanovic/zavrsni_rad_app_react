@@ -5,7 +5,7 @@ export default function About() {
   return (
     <MainContainer>
       <AboutMenu />
-      <div className="flex-grow overflow-y-auto flex flex-col justify-center items-center h-full p-8 space-y-4">
+      <div className="flex-grow overflow-y-auto flex flex-col justify-start items-center p-8 space-y-4">
         <h1 className="text-4xl font-bold text-gray-500 text-center max-w-2xl">About</h1>
         <p className="text-gray-500 max-w-2xl leading-relaxed">
           This web application is an epitome of modern web development practices. It harnesses the power of React to showcase some of the pivotal features essential for contemporary web apps.
