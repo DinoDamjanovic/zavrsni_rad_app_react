@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.048aaf83.css",
-    "main.js": "/static/js/main.e6c8262b.js",
+    "main.js": "/static/js/main.24bebbb9.js",
     "static/js/787.d700c273.chunk.js": "/static/js/787.d700c273.chunk.js",
     "static/media/lake_road.png": "/static/media/lake_road.e218f1de3c370d7266b0.png",
     "static/media/azure_beach_hideout.png": "/static/media/azure_beach_hideout.956c1585118be23f4b84.png",
@@ -17,11 +17,11 @@
     "static/media/mountain_retreat.png": "/static/media/mountain_retreat.2e0f95e622b02b06d7ed.png",
     "index.html": "/index.html",
     "main.048aaf83.css.map": "/static/css/main.048aaf83.css.map",
-    "main.e6c8262b.js.map": "/static/js/main.e6c8262b.js.map",
+    "main.24bebbb9.js.map": "/static/js/main.24bebbb9.js.map",
     "787.d700c273.chunk.js.map": "/static/js/787.d700c273.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.048aaf83.css",
-    "static/js/main.e6c8262b.js"
+    "static/js/main.24bebbb9.js"
   ]
 }
