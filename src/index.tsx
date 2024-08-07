@@ -5,9 +5,10 @@ import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from "react-router-dom";
 
 let root = createRoot(document.getElementById('root') as HTMLElement);
+let basename = process.env.REACT_APP_HOMEPAGE;
 
 root.render(
-  <BrowserRouter>
+  <BrowserRouter basename={basename}>
     <App />
   </BrowserRouter>
 );
