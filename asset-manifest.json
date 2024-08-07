@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.048aaf83.css",
-    "main.js": "/static/js/main.b750d2b5.js",
-    "static/js/787.d700c273.chunk.js": "/static/js/787.d700c273.chunk.js",
-    "static/media/lake_road.png": "/static/media/lake_road.e218f1de3c370d7266b0.png",
-    "static/media/azure_beach_hideout.png": "/static/media/azure_beach_hideout.956c1585118be23f4b84.png",
-    "static/media/autumn_dream.png": "/static/media/autumn_dream.13338f6833e6e9e23f05.png",
-    "static/media/forestfall_hike.png": "/static/media/forestfall_hike.fb50e092c632bab8e300.png",
-    "static/media/mountain_lake.png": "/static/media/mountain_lake.b53dbfc10c32185391dc.png",
-    "static/media/sunny_meadow.png": "/static/media/sunny_meadow.1eec1c4e14d25c4ecff5.png",
-    "static/media/tropical_paradise.png": "/static/media/tropical_paradise.9a1817a9c8ccc647fd93.png",
-    "static/media/hidden_forest.png": "/static/media/hidden_forest.fdffde8d9299b4c51c71.png",
-    "static/media/sunset_docks.png": "/static/media/sunset_docks.22ec8d87d6eb201dddc4.png",
-    "static/media/lake_of_silence.png": "/static/media/lake_of_silence.9298d337665c0d2302db.png",
-    "static/media/spring_field.png": "/static/media/spring_field.f3261420ced5ae07dbad.png",
-    "static/media/mountain_retreat.png": "/static/media/mountain_retreat.2e0f95e622b02b06d7ed.png",
-    "index.html": "/index.html",
-    "main.048aaf83.css.map": "/static/css/main.048aaf83.css.map",
-    "main.b750d2b5.js.map": "/static/js/main.b750d2b5.js.map",
-    "787.d700c273.chunk.js.map": "/static/js/787.d700c273.chunk.js.map"
+    "main.css": "/zavrsni_rad_app_react/static/css/main.048aaf83.css",
+    "main.js": "/zavrsni_rad_app_react/static/js/main.b8f9d630.js",
+    "static/js/787.d700c273.chunk.js": "/zavrsni_rad_app_react/static/js/787.d700c273.chunk.js",
+    "static/media/lake_road.png": "/zavrsni_rad_app_react/static/media/lake_road.e218f1de3c370d7266b0.png",
+    "static/media/azure_beach_hideout.png": "/zavrsni_rad_app_react/static/media/azure_beach_hideout.956c1585118be23f4b84.png",
+    "static/media/autumn_dream.png": "/zavrsni_rad_app_react/static/media/autumn_dream.13338f6833e6e9e23f05.png",
+    "static/media/forestfall_hike.png": "/zavrsni_rad_app_react/static/media/forestfall_hike.fb50e092c632bab8e300.png",
+    "static/media/mountain_lake.png": "/zavrsni_rad_app_react/static/media/mountain_lake.b53dbfc10c32185391dc.png",
+    "static/media/sunny_meadow.png": "/zavrsni_rad_app_react/static/media/sunny_meadow.1eec1c4e14d25c4ecff5.png",
+    "static/media/tropical_paradise.png": "/zavrsni_rad_app_react/static/media/tropical_paradise.9a1817a9c8ccc647fd93.png",
+    "static/media/hidden_forest.png": "/zavrsni_rad_app_react/static/media/hidden_forest.fdffde8d9299b4c51c71.png",
+    "static/media/sunset_docks.png": "/zavrsni_rad_app_react/static/media/sunset_docks.22ec8d87d6eb201dddc4.png",
+    "static/media/lake_of_silence.png": "/zavrsni_rad_app_react/static/media/lake_of_silence.9298d337665c0d2302db.png",
+    "static/media/spring_field.png": "/zavrsni_rad_app_react/static/media/spring_field.f3261420ced5ae07dbad.png",
+    "static/media/mountain_retreat.png": "/zavrsni_rad_app_react/static/media/mountain_retreat.2e0f95e622b02b06d7ed.png",
+    "index.html": "/zavrsni_rad_app_react/index.html",
+    "main.048aaf83.css.map": "/zavrsni_rad_app_react/static/css/main.048aaf83.css.map",
+    "main.b8f9d630.js.map": "/zavrsni_rad_app_react/static/js/main.b8f9d630.js.map",
+    "787.d700c273.chunk.js.map": "/zavrsni_rad_app_react/static/js/787.d700c273.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.048aaf83.css",
-    "static/js/main.b750d2b5.js"
+    "static/js/main.b8f9d630.js"
   ]
 }
