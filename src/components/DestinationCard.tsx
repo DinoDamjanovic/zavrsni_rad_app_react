@@ -15,7 +15,7 @@ export default function DestinationCard({ id, name, imageUrl, isFavorite }: Dest
   return (
     <div className="relative p-4 bg-white shadow-lg rounded-lg overflow-hidden">
       <img className="w-full h-48 object-cover" src={imageUrl} alt="Destination" />
-      <div className="flex justify-between items-center mt-4">
+      <div className="flex justify-between items-center mt-4 py-1">
         <div>
           <h3 className="text-xl font-semibold">{name}</h3>
         </div>
