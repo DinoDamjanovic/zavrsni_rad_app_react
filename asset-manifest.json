@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/zavrsni_rad_app_react/static/css/main.048aaf83.css",
-    "main.js": "/zavrsni_rad_app_react/static/js/main.7bf8a8f1.js",
+    "main.css": "/zavrsni_rad_app_react/static/css/main.cce0152a.css",
+    "main.js": "/zavrsni_rad_app_react/static/js/main.afbcbf25.js",
     "static/js/787.d700c273.chunk.js": "/zavrsni_rad_app_react/static/js/787.d700c273.chunk.js",
     "static/media/lake_road.png": "/zavrsni_rad_app_react/static/media/lake_road.e218f1de3c370d7266b0.png",
     "static/media/azure_beach_hideout.png": "/zavrsni_rad_app_react/static/media/azure_beach_hideout.956c1585118be23f4b84.png",
@@ -16,12 +16,12 @@
     "static/media/spring_field.png": "/zavrsni_rad_app_react/static/media/spring_field.f3261420ced5ae07dbad.png",
     "static/media/mountain_retreat.png": "/zavrsni_rad_app_react/static/media/mountain_retreat.2e0f95e622b02b06d7ed.png",
     "index.html": "/zavrsni_rad_app_react/index.html",
-    "main.048aaf83.css.map": "/zavrsni_rad_app_react/static/css/main.048aaf83.css.map",
-    "main.7bf8a8f1.js.map": "/zavrsni_rad_app_react/static/js/main.7bf8a8f1.js.map",
+    "main.cce0152a.css.map": "/zavrsni_rad_app_react/static/css/main.cce0152a.css.map",
+    "main.afbcbf25.js.map": "/zavrsni_rad_app_react/static/js/main.afbcbf25.js.map",
     "787.d700c273.chunk.js.map": "/zavrsni_rad_app_react/static/js/787.d700c273.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.048aaf83.css",
-    "static/js/main.7bf8a8f1.js"
+    "static/css/main.cce0152a.css",
+    "static/js/main.afbcbf25.js"
   ]
 }
